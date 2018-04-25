@@ -17,11 +17,8 @@ canvas、framework7、toast提示
 git clone https://github.com/lisaiqi123/wanguoyoupin.git
 
 直接打开html->dazhuanpan.html
-
-
-## 功能列表
-
-
+修改以下代码可切换状态
+![image](https://github.com/lisaiqi123/dazhuanpan/blob/master/images/intro.jpg)
 
 ## 效果演示
 
