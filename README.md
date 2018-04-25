@@ -14,11 +14,15 @@
 canvas、framework7、toast提示
 ## 项目运行
 
-git clone https://github.com/lisaiqi123/wanguoyoupin.git
+git clone https://github.com/lisaiqi123/wanguoyoupin.git<br>
 
-直接打开html->dazhuanpan.html
-修改以下代码可切换状态
+直接打开html->dazhuanpan.html<br>
+修改以下代码可切换状态<br>
+html<br>
 ![image](https://github.com/lisaiqi123/dazhuanpan/blob/master/images/intro.jpg)
+js<br>
+![image](https://github.com/lisaiqi123/dazhuanpan/blob/master/images/readmepic2.jpg)
+
 
 ## 效果演示
 
